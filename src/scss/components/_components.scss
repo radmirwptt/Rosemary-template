@@ -1,0 +1,29 @@
+/* Header!!! */
+.nav-link{
+    color:$f;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20,11px;
+    text-transform: uppercase;
+    border-bottom:3px solid transparent;
+}
+.nav-link:hover{
+    color:$f!important;
+    border-bottom:3px solid $f;
+}
+
+.head-number{
+    font-size: 20px;
+    line-height: 25,14px;
+    color: #383735;
+    font-weight: 400;
+
+
+}
+.icons-head{
+    margin: 10px;
+}
+/* Footer!!! */
+footer{
+    margin-top: 150px;
+}

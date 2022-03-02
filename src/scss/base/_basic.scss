@@ -1,0 +1,25 @@
+body{
+  background: #fff;
+  font-family: 'SourceSansPro-Regular'; 
+ 
+}
+@font-face {
+
+font-family:'SourceSansPro-Regular'; 
+
+src: local('SourceSansPro-Regular'),
+
+  url(src/fonts/SourceSansPro-Regular.ttf); 
+
+}
+a{
+  text-decoration: none;
+}
+.wrapper{
+  overflow: hidden;
+
+}
+
+.container-fluid{
+  margin: 20px;
+}
